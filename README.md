@@ -1,6 +1,7 @@
-# Социальная сеть для публикации личных дневников. 
+### Social network for publishing personal diaries
 
-Личные страницы. 
-Сообщества. 
-Подписки на авторов и комментарии для записей.
-Back & front. Unit-tests.
+  Personal pages.
+  Communities.
+  Subscriptions to authors and comments for posts.
+  Backend & frontend.
+  Unit tests.
